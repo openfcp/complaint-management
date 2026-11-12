@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#2B4EA1"/>
+  <!-- 盾牌（描边风格，圆角） -->
+  <path d="M256 74 L116 126 v126 c0 98 64 160 140 190 c76 -30 140 -92 140 -190 v-126 Z"
+        fill="none" stroke="#FFFFFF" stroke-width="26" stroke-linejoin="round"/>
+  <!-- 两条横线 + 对勾 -->
+  <rect x="192" y="170" width="72" height="22" rx="11" fill="#FFFFFF"/>
+  <path d="M292 172 l20 22 36 -40" stroke="#FFFFFF" stroke-width="22" fill="none"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="192" y="232" width="72" height="22" rx="11" fill="#FFFFFF"/>
+  <path d="M292 234 l20 22 36 -40" stroke="#FFFFFF" stroke-width="22" fill="none"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- 文字：投诉管理 -->
+  <text x="256" y="356" font-family="PingFang SC, Hiragino Sans GB, Heiti SC, sans-serif"
+        font-size="62" font-weight="700" fill="#FFFFFF" text-anchor="middle">投诉管理</text>
+</svg>
